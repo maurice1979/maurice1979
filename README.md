@@ -63,13 +63,10 @@ Hi there! I'm a seasoned Data Scientist currently working on a Data Platform tea
 ## <div align="left">Get in Touch</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/jordividaldellobatera/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="48">
   </a>
-  <a href="https://twitter.com/your-profile" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter" width="48">
-  </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:is.maurice@protonmail.com">
     <img src="https://img.icons8.com/color/48/000000/email.png" alt="Email" width="48">
   </a>
 </p>
