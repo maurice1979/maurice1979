@@ -1,10 +1,10 @@
 # <div align="center">Welcome to My GitHub Profile!</div>
 
-<p align="left">
+<p align="center">
   <img src="https://avatars.githubusercontent.com/u/7785214?v=4" alt="Profile Image" width="200">
 </p>
 
-<div align="left">
+<div align="center">
   <h1>Data Scientist | Data Platform Specialist</h1>
   <p>With over 10 years in Data & Data Science and more than 15 years in the Energy Industry</p>
 </div>
