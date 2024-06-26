@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maurice1979&label=Profile%20views&color=0e75b6&style=flat" alt="maurice1979" /> </p>
+
 # <div align="center">Welcome to My GitHub Profile!</div>
 
 <p align="center">
