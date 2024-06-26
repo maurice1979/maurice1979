@@ -9,7 +9,7 @@
   <p>With over 10 years in Data & Data Science and more than 15 years in the Energy Industry</p>
 </div>
 
-## <div align="center">About Me</div>
+## <div align="left">About Me</div>
 
 Hi there! I'm a seasoned Data Scientist currently working on a Data Platform team, focusing mainly on Spark and AWS Glue. My career spans over a decade in data science, with extensive experience in the energy industry.
 
@@ -17,7 +17,7 @@ Hi there! I'm a seasoned Data Scientist currently working on a Data Platform tea
 - 🌟 **Experience**: 10+ years in data & data science, 15+ years in the energy industry
 - 💼 **Specialization**: Spark, AWS Glue, Data Platforms
 
-## <div align="center">Skills & Technologies</div>
+## <div align="left">Skills & Technologies</div>
 
 <table align="center">
   <tr>
@@ -52,13 +52,13 @@ Hi there! I'm a seasoned Data Scientist currently working on a Data Platform tea
   </tr>
 </table>
 
-## <div align="center">Projects & Contributions</div>
+## <div align="left">Projects & Contributions</div>
 
 - 🚀 **Data Pipeline Optimization**: Optimized data processing pipelines using Spark and AWS Glue, resulting in a 30% reduction in processing time.
 - 📊 **Machine Learning Models**: Developed predictive models for energy consumption forecasting using Python and SageMaker.
 - 🔧 **Database Management**: Designed and maintained PostgreSQL databases, ensuring high availability and performance.
 
-## <div align="center">Get in Touch</div>
+## <div align="left">Get in Touch</div>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-profile" target="_blank">
