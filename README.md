@@ -1,7 +1,7 @@
 # <div align="center">Welcome to My GitHub Profile!</div>
 
 <p align="left">
-  <img src="[https://your-profile-image-url.com](https://avatars.githubusercontent.com/u/7785214?v=4)" alt="Profile Image" width="200">
+  <img src="https://avatars.githubusercontent.com/u/7785214?v=4" alt="Profile Image" width="200">
 </p>
 
 <div align="left">
@@ -22,14 +22,14 @@ Hi there! I'm a seasoned Data Scientist currently working on a Data Platform tea
 <table align="left">
   <tr>
     <td align="left" width="140">
-      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"><br>
+      <img src="center://img.icons8.com/color/48/000000/python.png" alt="Python" width="48"><br>
       <strong>Python</strong>
     </td>
-    <td align="left" width="140">
+    <td align="center" width="140">
       <img src="https://img.icons8.com/color/48/000000/machine-learning.png" alt="Machine Learning" width="48"><br>
       <strong>Machine Learning</strong>
     </td>
-    <td align="left" width="140">
+    <td align="center" width="140">
       <img src="https://img.icons8.com/color/48/000000/amazon-web-services.png" alt="AWS" width="48"><br>
       <strong>AWS</strong>
     </td>
@@ -37,15 +37,15 @@ Hi there! I'm a seasoned Data Scientist currently working on a Data Platform tea
       <img src="https://img.icons8.com/color/48/000000/amazon-s3.png" alt="SageMaker" width="48"><br>
       <strong>SageMaker</strong>
     </td>
-    <td align="left" width="140">
+    <td align="center" width="140">
       <img src="https://img.icons8.com/color/48/000000/spark.png" alt="Glue" width="48"><br>
       <strong>Glue</strong>
     </td>
-    <td align="left" width="140">
+    <td align="center" width="140">
       <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" width="48"><br>
       <strong>SQL</strong>
     </td>
-    <td align="left" width="140">
+    <td align="center" width="140">
       <img src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" width="48"><br>
       <strong>PostgreSQL</strong>
     </td>
