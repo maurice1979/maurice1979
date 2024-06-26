@@ -60,6 +60,12 @@ Hi there! I'm a seasoned Data Scientist currently working on a Data Platform tea
 - 📊 **Machine Learning Models**: Developed predictive models for energy consumption forecasting using Python and SageMaker.
 - 🔧 **Database Management**: Designed and maintained PostgreSQL databases, ensuring high availability and performance.
 
+## <h3 align="left">Languages & Tools</h3>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maurice1979&show_icons=true&locale=en" alt="maurice1979" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maurice1979&" alt="maurice1979" /></p>
+
 ## <div align="left">Get in Touch</div>
 
 <p align="center">
